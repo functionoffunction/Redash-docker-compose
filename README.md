@@ -36,7 +36,7 @@
     ```bash
     make stop-redash
     ```
- - The application would be available at http://localhost:5000/
+ - Delete data folder created (This step is optional).
 
 **To start project with docker-compose:**
  - Change directory to the project directory 
@@ -62,3 +62,4 @@
     ```bash
     docker-compose down
     ```
+- Delete data folder created (This step is optional).
