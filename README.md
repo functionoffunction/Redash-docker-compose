@@ -1,7 +1,4 @@
 # Redash using docker compose
-
-Written with [Django](https://www.djangoproject.com/) and [DRF](https://www.django-rest-framework.org/)
-
 ## Requirements to run this project
 
 - docker (20.10.5+): To install docker visit https://docs.docker.com/get-docker/
