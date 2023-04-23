@@ -19,4 +19,5 @@ start-redash:
 
 .PHONY: stop-redash
 start-redash:
+	docker-compose down -v 
 	docker-compose down
